@@ -92,14 +92,15 @@
         margin: 0;
         width: 300px;
         height: 150px;
-        background: inherit;
+        /* background: inherit; */
         display: flex;
         align-items: center;
         flex-direction: column;
         border-radius: 30px;
-        box-shadow: 0px 0px 20px 15px #0a0a0a89;
-        
+        /* box-shadow: 0px 0px 20px 15px #0a0a0a2f; */
+        box-shadow: 5px 5px 6px 2px #0a0a0a4d, inset -6px -6px 5px 0px #ffffff8f, inset 4px 4px 5px 0 #0a0a0a54, -3px -3px 10px 1px #ffffff8f;
         transition: 0.4s;
+        text-shadow: 2px 2px 10px #0000007a;
     }
 
     #cardBox:hover {

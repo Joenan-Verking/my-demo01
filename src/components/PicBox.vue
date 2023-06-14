@@ -89,7 +89,7 @@
         height: 100px;
         border-radius: 50%;
         transition: 0.4s;
-        box-shadow: 0px 0px 15px 10px #12121270;
+        box-shadow: 0px 0px 12px 2px #12121270;
         /* z-index: 1; */
     }
 

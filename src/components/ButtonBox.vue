@@ -29,15 +29,16 @@
         height: 45px;
         border: none;
         border-radius: 50px;
-        background-color: #cccccc34;
+        background-color: #0707070c;
         position: relative;
         color: white;
         font-size:medium;
         font-weight: 600;
+        text-shadow: 2px 2px 10px #0000007a;
     }
 
     button:hover{
         cursor:pointer;
-        background-color: #cccccc1c;
+        background-color: #0000001a;
     }
 </style>
