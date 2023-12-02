@@ -24,7 +24,7 @@
         data() {
             return {
                 hello: '你好',
-                welcome: '这里是我一个demo项目',
+                welcome: '这里是一个跳转页',
                 emailUrl:'2973574679@qq.com',
                 email:'邮箱'
             }
